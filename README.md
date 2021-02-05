@@ -1,3 +1,8 @@
+# Monitor de Votações
+
+Este projeto utiliza outro projeto como Backend:
+https://github.com/guimariz/backend-votacao-express
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
